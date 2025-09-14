@@ -8,8 +8,10 @@
 </div>
 
 ###
+<div align="center">
+  <img height="130" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2M0bXIyOTJmMnE4MmEwbGtjdjd2bm5kbTFpdWZxZzR2Njlma2FhZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/arbHBoiUWUgmc/source.gif"  />
+</div>
 
-<img align="center" height="130" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2M0bXIyOTJmMnE4MmEwbGtjdjd2bm5kbTFpdWZxZzR2Njlma2FhZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/arbHBoiUWUgmc/source.gif"  />
 
 ###
 
