@@ -16,6 +16,8 @@
 ###
 
 <div align="center">
+  <img src="https://skillicons.dev/icons?i=cs" height="30" alt="dot-net logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=dotnet" height="30" alt="dot-net logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  />
@@ -25,6 +27,10 @@
   <img src="https://skillicons.dev/icons?i=angular" height="30" alt="angularjs logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=sqlite" height="30" alt="sqlite logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="30" alt="sqlite logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="30" alt="sqlite logo"  />
   <img width="12" />
 </div>
 
